@@ -1,0 +1,2 @@
+Comando para bajar repositorio
+git clone https://github.com/cuartas56/simple-crud.git
